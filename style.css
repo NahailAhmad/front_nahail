@@ -1,0 +1,447 @@
+/* Navbar */
+
+/* *{
+    text-align: center;
+   
+
+} */
+
+.navbar {
+
+    background-color: #f5f7fa;
+
+}
+
+.header {
+    height: 500px;
+    background-color: #F5F7FA;
+}
+
+.btn1 {
+
+    border: 1px rgb(22, 188, 22) solid;
+    border-radius: 10px;
+    font-size: small;
+    width: 90px;
+    background-color: rgb(22, 188, 22);
+}
+
+.img {
+    margin-top: 2%;
+}
+
+.btn2 {
+    width: 100px;
+    height: 45px;
+    background-color: rgb(22, 188, 22);
+    color: white;
+    border: 1px solid rgb(22, 188, 22);
+    border-radius: 4px;
+    margin-top: 5%;
+}
+
+
+
+/* Section1 */
+
+/* .d-flex img {
+    padding: 70px;
+} */
+.section1 {
+    text-align: center;
+}
+
+.section1 h2 {
+    margin-top: 40px;
+    color: #4d4d4d;
+}
+
+.section1 p {
+    color: #4d4d4d;
+    font-weight: 400;
+
+}
+
+.img1 {
+    margin-top: 4%;
+}
+
+/* Section2 */
+
+.section2 h2 {
+    color: #4d4d4d;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.section2 p {
+    color: #4d4d4d;
+    text-align: center;
+    font-weight: 400;
+}
+
+.box {
+
+    text-align: center;
+}
+
+.border {
+    height: 53vh;
+    width: 95%;
+    box-shadow: #4d4d4d 0px 0px 15px;
+}
+
+.border img {
+    height: 100px;
+    margin-top: 15%;
+
+}
+
+.border h3 {
+    margin-top: 5%;
+    color: #4d4d4d;
+}
+
+
+
+/* Section3 */
+
+.img3 {
+    margin-top: 5%;
+}
+
+.text {
+    color: #4d4d4d;
+    margin: auto;
+    text-align: start;
+}
+
+.btn3 {
+    color: white;
+    background-color: rgb(22, 188, 22);
+    border: 1px solid rgb(22, 188, 22);
+    border-radius: 5px;
+    width: 110px;
+    height: 40px;
+}
+
+.back {
+    position: relative;
+    background: #E8F5E9;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 5px
+}
+
+/* Section4 */
+
+.section4 {
+    height: 40vh;
+    background-color: #f5f7fa;
+}
+
+
+.text1 h2 {
+
+    letter-spacing: 5px;
+    margin-top: 15%;
+
+    color: #4d4d4d;
+
+}
+
+.text1 p {
+    font-weight: 400;
+    letter-spacing: 2.8px;
+}
+
+.img4 {
+    width: 40px;
+    position: absolute;
+}
+
+.text2 h4 {
+    color: #4d4d4d;
+    margin-top: 25%;
+    margin-left: 50px;
+}
+
+.text2 p {
+    color: #4d4d4d;
+    margin-left: 50px;
+}
+
+.img5 {
+    width: 40px;
+    position: absolute;
+}
+
+.text3 h4 {
+    margin-top: 15%;
+    color: #4d4d4d;
+    margin-left: 50px;
+}
+
+.text3 p {
+    color: #4d4d4d;
+    margin-left: 50px;
+}
+
+.img6 {
+    width: 40px;
+    position: absolute;
+}
+
+.text4 h4 {
+    margin-top: 25%;
+    color: #4d4d4d;
+    margin-left: 50px;
+}
+
+.text4 p {
+    color: #4d4d4d;
+    margin-left: 50px;
+}
+
+.img7 {
+    width: 40px;
+    position: absolute;
+}
+
+.text5 h4 {
+    color: #4d4d4d;
+    margin-top: 15%;
+    margin-left: 50px;
+}
+
+.text5 p {
+    color: #4d4d4d;
+    margin-left: 50px;
+}
+
+/* Section5 */
+.section5{
+    height: 80vh;
+    margin-bottom: 40px;
+}
+
+.img8{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.text6 h2{
+    margin-top: 25%;
+    color: #4d4d4d;
+}
+.text6 p{
+    color: #4d4d4d;
+    font-weight: 400;
+}
+.btn4{
+    color: white;
+    width: 100px;
+    height: 40px;
+    background-color:#4CAF4F;
+    border: 1px solid #4CAF4F;
+    border-radius: 2px;
+}
+
+/* Section 6 */
+.section6{
+    background-color: #f5f7fa;
+    height:60vh;
+}
+
+.img9{
+    margin-top:30%;
+    height: 350px;
+    width:350px;
+  
+}
+
+.para{
+    padding-top: 7%;
+    color: #4d4d4d;
+    font-weight: 400;
+}
+
+.text7 h4{
+    
+    color:rgb(22, 188, 22) ;
+}
+.para1{
+    color: #4d4d4d;
+    font-weight: 400;
+    /* padding-top: 0; */
+}
+.img10{
+  
+    position: relative;
+   
+   
+  
+    display: flex;  
+    flex-direction: row;
+}
+.img10 img{
+    height: 30px;
+}
+
+.img11{
+    height: 25px;
+    width: 85px;
+    padding-left: 5%;
+}
+.img10 p{
+    padding: 5px 20px;    
+    color:rgb(22, 188, 22);
+    font-weight: 600;
+}
+.img10 a{
+   margin-left: 1%  ;
+}
+
+
+/* Secction7 */
+
+.hero5 {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.image {
+    background-image: url(./images/Section7/image\ 18.png);
+    background-repeat: no-repeat;
+    /* height: 261px; */
+    /* width: 1%; */
+}
+
+.image1 {
+    background-image: url(./images/Section7/image\ 19.png);
+    background-repeat: no-repeat;
+    /* height: 40vh; */
+}
+
+.image2 {
+    background-image: url(./images/Section7/image\ 20.png);
+    background-repeat: no-repeat;
+    /* height: 40vh; */
+}
+
+.color1 {
+    height: 157px;
+    width: 280px;
+    background: #F5F7FA;
+    box-shadow: 0 0 20px #717171;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 175px;
+    margin-left: 30px;
+}
+
+.color2 {
+    height: 157px;
+    width: 280px;
+    background: #F5F7FA;
+    box-shadow: 0 0 20px #717171;
+    border-radius: 10px;
+    text-align: center;
+   margin-top: 175px;
+   margin-left: 30px;
+}
+
+.color3 {
+    height: 157px;
+    width: 280px;
+    background: #F5F7FA;
+    box-shadow: 0 0 20px #717171;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 175px ;
+    margin-left:30px ;
+
+}
+.para4{
+    color: #717171;
+}
+.para01 {
+    color: #717171;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+.arrow {
+    margin-left: 10px;
+}
+
+/* Section8 */
+.hero6 {
+    background-color: #F5F7FA;
+    height: 45vh;
+    width: 100%;
+    margin-top: 140px;
+    text-align: center;
+}
+
+.hero6 h1 {
+    font-size: 60px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.hero6 button {
+    font-weight: 500;
+}
+
+
+/* Footer */
+.hero7 {
+    background-color: #263238;
+    width: 100%;
+    height: 55vh;
+    color: #D9DBE1;
+}
+
+.hero7 h5 {
+    display: block;
+    color: white;
+}
+
+.img14 a {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.2);
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    color: #ffffff;
+    margin: 35px 5px;
+}
+
+.img14 svg {
+    margin: 9px 9px;
+    font-size: 30px;
+}
+
+.img14 img {
+    height: 25px;
+    padding-left: 10px;
+    margin-top: 60px;
+    margin-bottom: 45px;
+}
+
+.img14 p {
+    padding-left: 10px;
+}
+
+.word h5 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.form input {
+    background: transparent;
+    border-radius: 8px;
+}
+
